@@ -2,7 +2,7 @@
 
 A simple game built using Python  
 
-depedencies: tkinter, turtle, random
+Depedencies: tkinter, turtle, random
 
 How to play:
 Press the up and down arrow keys to move  
